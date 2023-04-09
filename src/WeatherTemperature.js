@@ -9,13 +9,13 @@ export default function WeatherTemperature() {
           <img id="mainIcon" alt="rain" />
           <strong id="degrees-temp"></strong>
           <span id="units">
-            <a href="#" id="celcium" className="active">
+            <button href="#" id="celcium" className="active">
               °C{" "}
-            </a>{" "}
+            </button>{" "}
             |
-            <a href="#" id="fargh">
+            <button href="#" id="fargh">
               °F
-            </a>
+            </button>
           </span>
 
           <div>

@@ -10,6 +10,7 @@ export default function Footer() {
           href="https://github.com/MarynaChernilevska/weather-react"
           class="link"
           target="_blank"
+          rel="noreferrer"
         >
           open-soursed on GitHub
         </a>
@@ -18,6 +19,7 @@ export default function Footer() {
           href="https://sage-zabaione-5ede2e.netlify.app"
           class="link"
           target="_blank"
+          rel="noreferrer"
         >
           hosted on Netlify
         </a>
