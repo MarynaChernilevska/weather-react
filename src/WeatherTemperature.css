@@ -1,0 +1,30 @@
+.WeatherTemperature .mainLine {
+  padding: 0px 65px;
+}
+.WeatherTemperature .weather-temperature {
+  justify-content: space-between;
+  align-items: center;
+}
+.WeatherTemperature .d-flex img {
+  height: 100px;
+  width: 100px;
+}
+.WeatherTemperature .d-flex #degrees-temp {
+  color: #5d5d5d;
+  font-size: 64px;
+  font-weight: 400;
+  padding-left: 10px;
+}
+.WeatherTemperature .d-flex #units {
+  position: relative;
+  font-size: 16px;
+  top: -17px;
+  color: #5d5d5d;
+}
+.WeatherTemperature #more {
+  list-style-type: none;
+  color: #5d5d5d;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
