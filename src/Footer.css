@@ -1,0 +1,19 @@
+.Footer .links {
+  text-align: center;
+  margin-top: 40px;
+  color: #5d5d5d;
+}
+.Footer .link {
+  color: #9cc1ca;
+}
+.Footer .link:hover {
+  color: #fff;
+}
+.Footer a.active {
+  color: rgb(32, 31, 82);
+  cursor: default;
+  text-decoration: none;
+}
+.Footer a.active:hover {
+  text-decoration: none;
+}
