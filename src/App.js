@@ -1,21 +1,11 @@
 import "./App.css";
+import "./styles.css";
+import MainPage from "./MainPage";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>hello world</h1>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <MainPage />
     </div>
   );
 }
-
-export default App;
