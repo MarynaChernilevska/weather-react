@@ -7,7 +7,7 @@ export default function Footer() {
       <div class="links">
         This project was coded by Maryna Chernilevska and is
         <a
-          href="https://github.com/MarynaChernilevska/weather-app"
+          href="https://github.com/MarynaChernilevska/weather-react"
           class="link"
           target="_blank"
         >
