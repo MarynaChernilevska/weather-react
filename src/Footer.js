@@ -16,7 +16,7 @@ export default function Footer() {
         </a>
         and
         <a
-          href="https://sage-zabaione-5ede2e.netlify.app"
+          href="https://chic-semolina-abd7fe.netlify.app"
           class="link"
           target="_blank"
           rel="noreferrer"
