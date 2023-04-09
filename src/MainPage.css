@@ -1,0 +1,16 @@
+.MainPage {
+  background: linear-gradient(
+    135deg,
+    rgb(151, 171, 255) 10%,
+    rgb(18, 53, 151) 100%
+  );
+  min-height: 100vh;
+  font-family: "Roboto", sans-serif;
+  padding: 20px;
+}
+.MainPage .weather-app {
+  max-width: 800px;
+  border: 1px solid #5d5d5d;
+  border-radius: 10px;
+  padding: 0px 0px 20px;
+}
