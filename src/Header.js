@@ -1,10 +1,10 @@
 import React from "react";
-import SearchCity from "./SearchCity";
+import Weather from "./Weather";
 
 export default function Header() {
   return (
     <div className="Header">
-      <SearchCity />
+      <Weather />
     </div>
   );
 }

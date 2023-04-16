@@ -14,3 +14,16 @@
   border-radius: 10px;
   padding: 0px 0px 20px;
 }
+.MainPage h1 {
+  color: #fff;
+  font-weight: bold;
+  font-size: 45px;
+  margin-top: 20px;
+}
+.MainPage ul {
+  color: #9cc1ca;
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: -10px;
+  padding-left: 0;
+}

@@ -1,5 +1,6 @@
 import "./App.css";
 import "./styles.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 import MainPage from "./MainPage";
 
 export default function App() {
